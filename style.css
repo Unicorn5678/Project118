@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+
+.heading_div{
+    float:none;
+    background:white;
+    padding:10px;
+    border-radius:20px;
+    color:black;
+    box-shadow:5px 5px 5px grey;
+}
+
+.heading_div2{
+    font-size:18px;
+}
+
+.btn{
+    box-shadow: 5px 5px 5px grey;
+}
+
+canvas{
+    border:5px solid white;
+    box-shadow:5px 5px 5px grey;
+    border-radius:15px;
+    margin-top:200px; 
+}
